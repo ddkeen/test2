@@ -1,0 +1,28 @@
+{
+     "event": {
+          "Confirmation Number": "874083024",
+          "Ticket Response Team": "Support",
+          "Monitoring Objective": "Ensure Splunk is running",
+          "Employee ID": "853J",
+          "Project Title": "Project 1",
+          "Project Number": "001",
+          "Project End Date": "2021-07-28",
+          "Requirement 1": "File monitoring",
+          "Business Reason 1": "Utilization is too high",
+          "Risk 1": "Contractural Obligation",
+          "Server/URL 1": "Both",
+          "Server Type 1": "Both",
+          "Server ID 1": "ok",
+          "URL 1": "www.bcbss.com",
+          "File Path 1": "Program\\files\\wasabi",
+          "Log Rotation 1": "By file size",
+          "Ticketing Condition 1": "10 Consecutive Failures within 15 minutes",
+          "Search Schedule 1": "Every hour",
+          "Alert 1": "Both",
+          "Ticket Severity 1": "S2",
+          "Ticket Bucket 1": "SS-COMBTH",
+          "Distribution List 1": "david@bcbssc.com",
+          "Acceptance Criteria 1": "When there are 10 Consecutive Splunk server failures, I expect and S1 ticket",
+          "Additional Information 1": ""
+     }
+}
